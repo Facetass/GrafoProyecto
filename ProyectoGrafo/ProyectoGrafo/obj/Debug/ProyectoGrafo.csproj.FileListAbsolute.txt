@@ -1,0 +1,9 @@
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\bin\Debug\ProyectoGrafo.dll
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\bin\Debug\ProyectoGrafo.pdb
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\obj\Debug\ProyectoGrafo.csproj.AssemblyReference.cache
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\obj\Debug\ProyectoGrafo.csproj.CoreCompileInputs.cache
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\obj\Debug\ProyectoGrafo.dll
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\obj\Debug\ProyectoGrafo.pdb
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\bin\Debug\Newtonsoft.Json.dll
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\bin\Debug\Newtonsoft.Json.xml
+E:\Programacion\Microsoft VS 2022\ProyectoGrafo\ProyectoGrafo\obj\Debug\Proyecto.92A6E941.Up2Date

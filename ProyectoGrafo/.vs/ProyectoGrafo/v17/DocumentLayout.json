@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C1E27-A12F-4DC5-92B9-9589C238BE2F}|WebGrafo\\WebGrafo.csproj|e:\\programacion\\microsoft vs 2022\\proyectografo\\webgrafo\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81C1E27-A12F-4DC5-92B9-9589C238BE2F}|WebGrafo\\WebGrafo.csproj|solutionrelative:webgrafo\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\proyectografo\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|solutionrelative:proyectografo\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81C1E27-A12F-4DC5-92B9-9589C238BE2F}|WebGrafo\\WebGrafo.csproj|E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\webgrafo\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A81C1E27-A12F-4DC5-92B9-9589C238BE2F}|WebGrafo\\WebGrafo.csproj|solutionrelative:webgrafo\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\proyectografo\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|solutionrelative:proyectografo\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\proyectografo\\listaaristas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|solutionrelative:proyectografo\\listaaristas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\proyectografo\\nodolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|solutionrelative:proyectografo\\nodolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\proyectografo\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06510301-4808-4D57-8DD9-C0AA44FF30F0}|ProyectoGrafo\\ProyectoGrafo.csproj|solutionrelative:proyectografo\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\WebGrafo\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebGrafo\\WebForm1.aspx",
+              "ToolTip": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\WebGrafo\\WebForm1.aspx",
+              "RelativeToolTip": "WebGrafo\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T20:08:59.501Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\WebGrafo\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebGrafo\\WebForm1.aspx.cs",
+              "ToolTip": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\WebGrafo\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebGrafo\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:20:53.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grafo.cs",
+              "DocumentMoniker": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\Grafo.cs",
+              "RelativeDocumentMoniker": "ProyectoGrafo\\Grafo.cs",
+              "ToolTip": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\Grafo.cs",
+              "RelativeToolTip": "ProyectoGrafo\\Grafo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:06:25.925Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vertice.cs",
+              "DocumentMoniker": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\Vertice.cs",
+              "RelativeDocumentMoniker": "ProyectoGrafo\\Vertice.cs",
+              "ToolTip": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\Vertice.cs",
+              "RelativeToolTip": "ProyectoGrafo\\Vertice.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:30:10.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaAristas.cs",
+              "DocumentMoniker": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\ListaAristas.cs",
+              "RelativeDocumentMoniker": "ProyectoGrafo\\ListaAristas.cs",
+              "ToolTip": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\ListaAristas.cs",
+              "RelativeToolTip": "ProyectoGrafo\\ListaAristas.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwFsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:29:53.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NodoLista.cs",
+              "DocumentMoniker": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\NodoLista.cs",
+              "RelativeDocumentMoniker": "ProyectoGrafo\\NodoLista.cs",
+              "ToolTip": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\NodoLista.cs",
+              "RelativeToolTip": "ProyectoGrafo\\NodoLista.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:29:39.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\Ciudad.cs",
+              "RelativeDocumentMoniker": "ProyectoGrafo\\Ciudad.cs",
+              "ToolTip": "E:\\Programacion\\Microsoft VS 2022\\ProyectoGrafo\\ProyectoGrafo\\Ciudad.cs",
+              "RelativeToolTip": "ProyectoGrafo\\Ciudad.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:29:08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
